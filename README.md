@@ -1,4 +1,5 @@
 ## Hi i'm matheus, passionate about technology, mobile and kotlin💕
+I'm currently studying and working with flutter too !
 
 <div>
   <a href="https://github.com/MatheusAngelicio">
