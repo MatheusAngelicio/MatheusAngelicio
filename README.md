@@ -1,5 +1,6 @@
-## Hi i'm matheus, passionate about technology, mobile and kotlin💕
-I'm currently studying and working with flutter too !
+## Hi, I'm Matheus — passionate about mobile development, Kotlin, and all things tech 💕
+I've been working with mobile development for a few years now. While I currently focus on Flutter, my journey started with Kotlin, where I spent over 3 years building Android apps.
+Lately, I’ve been diving back into Kotlin to explore modern patterns and stay up-to-date with the latest best practices. Always learning, always building 🚀
 
 <div>
   <a href="https://github.com/MatheusAngelicio">
