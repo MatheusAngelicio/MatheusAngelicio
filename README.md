@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Matheus
 
-### Mobile Developer | Flutter & Kotlin Enthusiast
+### Mobile Developer | Flutter & Kotlin
 
 I'm a mobile developer from Brazil 🇧🇷 with a strong passion for building high-quality applications and solving complex problems.
 
