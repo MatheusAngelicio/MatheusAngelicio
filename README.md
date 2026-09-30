@@ -2,7 +2,7 @@
 
 ### 📱 Mobile Developer | Flutter & Kotlin
 
-I'm a Mobile Developer from Brazil 🇧🇷 focused on building scalable, maintainable, and production-ready mobile applications.
+I'm a Mobile Developer from Brazil focused on building scalable, maintainable, and production-ready mobile applications.
 
 My background started with **native Android development using Kotlin**, working with modern Android architecture, APIs, local data, and application lifecycle. Today, my main focus is **Flutter**, developing and maintaining real-world applications with complex business rules, API integrations, authentication flows, analytics, and modular architectures.
 
