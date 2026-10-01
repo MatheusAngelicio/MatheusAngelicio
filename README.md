@@ -26,6 +26,7 @@ I'm also constantly exploring the evolution of the **Kotlin and Flutter ecosyste
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-333333?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-333333?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
