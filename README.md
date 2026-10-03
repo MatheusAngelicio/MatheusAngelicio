@@ -42,9 +42,9 @@ I'm also constantly exploring the evolution of the **Kotlin and Flutter ecosyste
 
 * 📱 Cross-platform development with **Flutter**
 * 🤖 Native Android development with **Kotlin**
-* 🏗️ Clean Architecture, MVVM and modular applications
+* 🏗️ Clean Architecture, MVVM, MVC and modular applications
 * 🌐 REST API integrations and complex business flows
-* 🔥 Firebase, Analytics, Crashlytics and Remote Config
+* 🔥 Firebase, Analytics, Crashlytics, Remote Config, AI Logic, Authentication ...
 * 🐛 Debugging and production issue investigation
 * ⚡ Performance optimization and application stability
 * 🎨 Design Systems and reusable UI components
